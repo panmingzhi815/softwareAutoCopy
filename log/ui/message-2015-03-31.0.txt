@@ -1,0 +1,365 @@
+2015-03-31 17:15:24.935 [main] INFO  org.pan.MonitorService	-monitorService start now
+2015-03-31 17:15:34.940 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:15:34.950 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:51) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:15:44.952 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:15:44.952 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:51) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:15:54.953 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:15:54.953 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:51) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:16:04.955 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:16:04.955 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:51) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:16:14.957 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:16:14.957 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:51) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:16:24.958 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:16:24.958 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:51) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:16:34.960 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:16:34.960 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:51) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:16:44.961 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:16:44.961 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:51) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:16:54.963 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:16:54.963 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:51) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:17:04.964 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:17:04.964 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:51) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:17:14.966 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:17:14.966 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:51) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:22:36.536 [main] INFO  org.pan.MonitorService	-monitorService start now
+2015-03-31 17:22:46.548 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:22:46.549 [pool-1-thread-1] DEBUG org.pan.MonitorService	-[{}] has any file changed,but next will continue
+2015-03-31 17:22:46.553 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:54) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:22:56.554 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:22:56.554 [pool-1-thread-1] DEBUG org.pan.MonitorService	-[{}] has any file changed,but next will continue
+2015-03-31 17:22:56.554 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:54) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:23:06.555 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:23:06.555 [pool-1-thread-1] DEBUG org.pan.MonitorService	-[{}] has any file changed,but next will continue
+2015-03-31 17:23:06.555 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:54) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:23:16.557 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:23:16.557 [pool-1-thread-1] DEBUG org.pan.MonitorService	-[{}] has any file changed,but next will continue
+2015-03-31 17:23:16.557 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:54) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:23:26.558 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:23:26.558 [pool-1-thread-1] DEBUG org.pan.MonitorService	-[{}] has any file changed,but next will continue
+2015-03-31 17:23:26.558 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:54) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:23:36.322 [main] INFO  org.pan.MonitorService	-monitorService start now
+2015-03-31 17:23:36.560 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:23:36.560 [pool-1-thread-1] DEBUG org.pan.MonitorService	-[{}] has any file changed,but next will continue
+2015-03-31 17:23:36.560 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:54) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:23:46.561 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:23:46.561 [pool-1-thread-1] DEBUG org.pan.MonitorService	-[{}] has any file changed,but next will continue
+2015-03-31 17:23:46.561 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:54) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:23:55.179 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:23:56.563 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:23:56.563 [pool-1-thread-1] DEBUG org.pan.MonitorService	-[{}] has any file changed,but next will continue
+2015-03-31 17:23:56.563 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:54) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:24:06.565 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:24:06.565 [pool-1-thread-1] DEBUG org.pan.MonitorService	-[{}] has any file changed,but next will continue
+2015-03-31 17:24:06.565 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:54) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:24:16.566 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:24:16.566 [pool-1-thread-1] DEBUG org.pan.MonitorService	-[{}] has any file changed,but next will continue
+2015-03-31 17:24:16.566 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:54) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:24:26.572 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:24:26.572 [pool-1-thread-1] DEBUG org.pan.MonitorService	-[{}] has any file changed,but next will continue
+2015-03-31 17:24:26.572 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:54) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:24:36.573 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:24:36.573 [pool-1-thread-1] DEBUG org.pan.MonitorService	-[{}] has any file changed,but next will continue
+2015-03-31 17:24:36.573 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:54) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:24:46.575 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:24:46.575 [pool-1-thread-1] DEBUG org.pan.MonitorService	-[{}] has any file changed,but next will continue
+2015-03-31 17:24:46.575 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:54) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:24:56.576 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:24:56.576 [pool-1-thread-1] DEBUG org.pan.MonitorService	-[{}] has any file changed,but next will continue
+2015-03-31 17:24:56.576 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:54) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:25:06.578 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:25:06.578 [pool-1-thread-1] DEBUG org.pan.MonitorService	-[{}] has any file changed,but next will continue
+2015-03-31 17:25:06.579 [pool-1-thread-1] ERROR org.pan.MonitorService	-monitorService has error
+java.lang.NullPointerException: null
+	at org.pan.MonitorService$1.run(MonitorService.java:54) ~[classes/:na]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask$Sync.innerRunAndReset(FutureTask.java:351) ~[na:1.7.0_25]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178) ~[na:1.7.0_25]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_25]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_25]
+	at java.lang.Thread.run(Thread.java:724) ~[na:1.7.0_25]
+2015-03-31 17:25:19.031 [main] INFO  org.pan.MonitorService	-monitorService start now
+2015-03-31 17:25:29.039 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:29:20.366 [main] INFO  org.pan.MonitorService	-monitorService start now
+2015-03-31 17:29:30.371 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:29:40.374 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:29:50.375 [pool-1-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:29:58.525 [main] INFO  org.pan.MonitorService	-monitorService has been shutdown
+2015-03-31 17:29:58.525 [main] INFO  org.pan.MonitorService	-monitorService start now
+2015-03-31 17:30:08.526 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:30:08.526 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start synchronize
+2015-03-31 17:30:20.463 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:30:20.463 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start synchronize
+2015-03-31 17:30:30.799 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:30:30.799 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start synchronize
+2015-03-31 17:30:41.099 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:30:41.099 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start synchronize
+2015-03-31 17:30:51.387 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:30:51.387 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start synchronize
+2015-03-31 17:31:01.688 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:31:01.688 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start synchronize
+2015-03-31 17:31:12.159 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:31:12.159 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start synchronize
+2015-03-31 17:31:22.455 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:31:22.455 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start synchronize
+2015-03-31 17:31:32.742 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:31:32.742 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start synchronize
+2015-03-31 17:31:43.039 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:31:43.039 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start synchronize
+2015-03-31 17:31:53.350 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:31:53.350 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start synchronize
+2015-03-31 17:32:03.647 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:32:03.647 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start synchronize
+2015-03-31 17:32:13.936 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start check synchronize
+2015-03-31 17:32:13.936 [pool-2-thread-1] DEBUG org.pan.MonitorService	-monitorService start synchronize
